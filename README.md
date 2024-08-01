@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil
 
-Meu nome é Gabriel de Jesus
+Olá, meu nome é Gabriel de Jesus
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
